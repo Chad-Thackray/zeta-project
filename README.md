@@ -13,7 +13,7 @@ Scroll down to the "activation code" section and enter the range of gram points 
 
 By default we examine the range [g_300, g_99,999], the same as in the original dissertation.
 
-If the program takes an unusually large amount of time when processing the Lehman groups, this usually means that it has encountered an extreme case of Lehmer's phenomenon and requires more accuracy to discern the appropriate value of h_n. 
+If the program takes an unusually large amount of time or returns False when processing the Lehman groups, this usually means that it has encountered an extreme case of Lehmer's phenomenon and requires more accuracy to discern the appropriate value of h_n. 
 
 
 Tips for optimization:
