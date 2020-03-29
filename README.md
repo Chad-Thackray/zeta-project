@@ -2,7 +2,7 @@
 
 This is a collection of tools for verifying that the zeros of the Riemann Zeta function lie on the critical line up to a given gram point. Originally created for a dissertation detailing the mathematics behind such algorithms. 
 
-Zero_confirm_accurate Uses up to the third remainder term and is thus markedly more accurate, which is required when dealing with higher values of t. 
+Zero_confirm_accurate uses up to the third remainder term and is thus markedly more accurate, which is required when dealing with larger values of t. 
 
 Zero_confirm_first only uses the first remainder term and is therefore significantly faster in verifying the zeros. This is the function explicitly referenced in the dissertation.
 
