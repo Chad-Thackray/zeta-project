@@ -6,6 +6,8 @@ Zero_confirm_accurate uses up to the third remainder term and is thus markedly m
 
 Zero_confirm_first only uses the first remainder term and is therefore significantly faster in verifying the zeros. This is the function explicitly referenced in the dissertation.
 
+Maxvals is used in estimating maximal values of the coefficients of the remainder terms. 
+
 
 Instructions for use:
 
