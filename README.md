@@ -4,7 +4,7 @@ This is a collection of tools for verifying that the zeros of the Riemann Zeta f
 
 Zero_confirm_accurate Uses up to the third remainder term and is thus markedly more accurate, which is required when dealing with higher values of t. 
 
-Zero_confirm_first only uses the first remainder term and is therefore significantly faster in verifying the zeros. 
+Zero_confirm_first only uses the first remainder term and is therefore significantly faster in verifying the zeros. This is the function explicitly referenced in the dissertation.
 
 
 Instructions for use:
